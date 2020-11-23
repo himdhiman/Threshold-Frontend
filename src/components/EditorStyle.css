@@ -1,0 +1,14 @@
+#top-column {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+#heading {
+    margin-left: 10%;
+    font-size: 40px;
+}
+
+#btn-div {
+    padding-top: 2%;
+}
